@@ -1737,8 +1737,8 @@ The `main` branch is connected to the production GitHub repository.
 # Production Repository
 
 GitHub:
+https://github.com/Aniketkumar2004/ShopSphere
 
-https://github.com/DeepakChauhan33/Storefront-Commerce
 
 Backend:
 
@@ -1752,7 +1752,7 @@ https://storefront-commerce.onrender.com/product/products
 
 # Author
 
-**Deepak Chauhan**
+**Aniket Kumar**
 
 Full Stack / MERN Developer
 
